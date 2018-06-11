@@ -1,0 +1,17 @@
+body {
+	background-color:#000000;
+	color: white;
+}
+table#standings td, 
+table#standings th,
+table#winners td {
+	border: solid 1px yellow;
+}
+
+table#winners tr.header-row td { 
+	font-size: 3em;
+}
+
+table {
+	width: 90%;
+}
